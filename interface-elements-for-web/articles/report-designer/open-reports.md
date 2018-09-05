@@ -12,8 +12,6 @@ This dialog displays previously [saved reports](save-reports.md). Select a repor
 
 ![](../../images/eurd-web-open-report-dialog.png)
 
-You can use the search box to filter reports.
-
 The **Open Report** dialog allows you to search for a report by its name.
 
 ![](../../images/eurd-web-open-report-dialog-search.png)
