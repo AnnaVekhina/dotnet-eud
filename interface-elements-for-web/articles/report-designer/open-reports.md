@@ -4,8 +4,6 @@ author: Anna Vekhina
 ---
 # Open Reports
 
-This topic describes how to open a previously saved report and search for it. 
-
 Click **Open** in the [menu](report-designer-tools/menu.md) to invoke the **Open Report** dialog. 
 
 ![](../../images/eurd-web-open-report.png)
