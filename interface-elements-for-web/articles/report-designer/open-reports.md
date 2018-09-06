@@ -8,10 +8,10 @@ Click **Open** in the [menu](report-designer-tools/menu.md) to invoke the **Open
 
 ![](../../images/eurd-web-open-report.png)
 
-This dialog displays previously [saved reports](save-reports.md). Select a report and click **Open**.
+This dialog displays [saved reports](save-reports.md). Select a report and click **Open**.
 
 ![](../../images/eurd-web-open-report-dialog.png)
 
-The **Open Report** dialog allows you to search for a report by its name.
+You can use the **Open Report** dialog to search for a report.
 
 ![](../../images/eurd-web-open-report-dialog-search.png)
