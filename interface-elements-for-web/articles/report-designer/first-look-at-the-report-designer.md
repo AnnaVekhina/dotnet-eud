@@ -25,13 +25,4 @@ The _design surface_ displays a report's structure and contents. You can use the
 A blank report's design surface displays page margins and an empty [detail band](introduction-to-banded-reports.md).
 
 
-![](../../../images/eurd-win-report-bands-design-time-default-layout.png)
-
-
-Use view commands of the [Main Toolbar](report-designer-tools\toolbar.md) to change the Report Designer's default zoom factor.
-
-![](../../../images/eurd-win-report-designer-zoom-panel.png)
-
-Click **Preview** to open a [Print Preview](preview-print-and-export-reports.md) and display the generated report document with the data source's data.
-
-![](../../../images/eurd-win-report-designer-view-tabs.png)
+![](../../images/eurd-web-report-bands-default-design-time.png)
