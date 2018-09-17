@@ -30,7 +30,7 @@ You can also make a table cell act as a container for other report controls by d
 
 ![](../../../../images/eurd-web-drop-check-box-onto-table-cell.png)
 
-If a table cell includes only one control, you can right-click this control and use the **Fit Bounds to Container** command in the context menu. The same command is available in the toolbar's **Layout** tab. This command resizes the control so that it occupies all the available cell space (excluding borders).
+If a table cell includes only one control, you can right-click this control and use the **Fit Bounds to Container** command in the context menu. This command resizes the control so that it occupies all the available cell space (excluding borders).
 
 ![](../../../../images/eurd-web-fit-bounds-to-container.png)
 

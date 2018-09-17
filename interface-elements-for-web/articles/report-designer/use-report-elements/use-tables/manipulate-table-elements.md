@@ -15,7 +15,7 @@ Use the arrow that appears when a mouse cursor hovers over the table edges to se
 
 Draw a rectangle around the table to select the whole control.
 
-The [Properties](../../../report-designer/report-designer-tools/ui-panels/properties-panel.md) panel enables you to select the table element or the entire table and access to its properties.
+The [Properties](../../../report-designer/report-designer-tools/ui-panels/properties-panel.md) panel enables you to select the table element or the entire table and access their properties.
 
 ## Resize Table Elements
 You can resize a table or its cell by dragging the rectangle drawn on its edge or corner. 
