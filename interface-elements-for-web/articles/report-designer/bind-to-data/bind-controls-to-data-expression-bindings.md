@@ -16,7 +16,7 @@ You can use the following approaches to include a data source's information in y
 
 ## Use the Field List
 
-After you [](../bind-to-data.md), the [Field List](../report-designer-tools/ui-panels/field-list.md) panel displays the data source's hierarchy and provides access to the available data fields. 
+After you [bind your report to data](../bind-to-data.md), the [Field List](../report-designer-tools/ui-panels/field-list.md) panel displays the data source's hierarchy and provides access to the available data fields. 
 
 Drop a data field from this panel onto a report's surface to create a new report control bound to the corresponding field.
 

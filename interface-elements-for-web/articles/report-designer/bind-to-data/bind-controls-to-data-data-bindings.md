@@ -5,9 +5,9 @@ author: Anna Gubareva
 # Bind Report Controls to Data (Data Bindings)
 
 > [!Warning]
-> Use the approach below if expression bindings **are not enabled** in the Report Designer (the [Expressions](../report-designer-tools/ui-panels/expressions-panel.md) ![](../../../images/eurd-web-expressions-panel-icon.png) panel is not available in the designer).
+> Use the approach below if expression bindings **are not enabled** in the Report Designer (the [Expressions](../report-designer-tools/ui-panels/expressions-panel.md) ![](../../../images/eurd-web-expressions-panel-icon.png) panel is not available in the Designer).
 >
-> See [Bind Report Controls to Data (Expression Bindings)](bind-controls-to-data-expression-bindings.md) if expression bindings **are enabled** in the Report Designer (the [Expressions](../report-designer-tools/ui-panels/expressions-panel.md) ![](../../../images/eurd-web-expressions-panel-icon.png) panel is available in the designer).
+> See [Bind Report Controls to Data (Expression Bindings)](bind-controls-to-data-expression-bindings.md) if expression bindings **are enabled** in the Report Designer (the [Expressions](../report-designer-tools/ui-panels/expressions-panel.md) ![](../../../images/eurd-web-expressions-panel-icon.png) panel is available in the Designer).
 
 You can use the following approaches to include a data source's information in your report:
 
@@ -38,7 +38,7 @@ To select multiple fields in the Field List, hold CTRL or SHIFT and click the fi
 
 ## Use the Properties Panel
 
-You can use the [Properties](../report-designer-tools/ui-panels/properties-panel.md) panel to bind a report control to a data field. Select the control, expand the **(Data Bindings)** drop-down list in the **Actions** category and choose a data field.
+You can use the [Properties](../report-designer-tools/ui-panels/properties-panel.md) panel to bind a report control to a data field. Select the control, expand the **Data Bindings** drop-down list in the **Actions** category and choose a data field.
 
 ![](../../../images/eurd-web-properties-panel-data-binding.png)
 
