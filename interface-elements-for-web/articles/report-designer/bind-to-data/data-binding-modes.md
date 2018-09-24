@@ -43,14 +43,14 @@ See the section below for information on how to use expressions instead of data 
 
     ![](../../../images/eurd-web-field-list-drop-fields.png)
 
-* You can select a report control and bind it to data in the [Property Grid](../report-designer-tools/ui-panels/property-grid.md).
+* You can select a report control and bind it to data in the [Properties](../report-designer-tools/ui-panels/property-grid.md) panel.
 
     <table><tr><th><p>Expression Bindings</p>
     </th><th><p>Data Bindings</p>
-    </th></tr><tr><td><p>Switch to the <strong>Expressions</strong> tab and specify a data field for the <strong>Text</strong> property.</p>
-    <p><img src="../../../../images/eurd-win-property-grid-expression-binding.png"></p>
+    </th></tr><tr><td><p>Switch to the <a class="xref"href="../report-designer-tools/ui-panels/expressions-panel.md"> Expressions</a> panel, click the <strong>Text</strong> property's ellipsis button and specify the expression.</p>
+    <p><img src="../../../images/eurd-web-property-grid-expression-binding.png"></p>
     </td><td><p>Expand the <strong>Data Bindings</strong> drop-down list and select a data field.</p>
-    <p><img src="../../../../images/eurd-win-property-grid-text-data-binding.png"></p>
+    <p><img src="../../../images/eurd-web-property-grid-text-data-binding.png"></p>
     </td>
     </tr></table>
 
@@ -67,11 +67,11 @@ See the following topics for more information:
 <table><tr><th><p>Expression Bindings</p>
 </th><th><p>Data Bindings</p>
 </th></tr><tr><td><p>Use the <a class="xref" href="use-embedded-fields-mail-merge.md">mail merge</a> functionality.</p>
-<p><img src="../../../../images/eurd-win-binding-modes-mail-merge.png"></p>
-<p>Click the <strong>Expression</strong> property's ellipsis button and specify the expression.</p>
-<p><img src="../../../../images/eurd-win-expression-binding-multiple-fields.png"></p>
+<p><img src="../../../images/eurd-web-binding-modes-mail-merge.png"></p>
+<p>Switch to the <a class="xref"href="../report-designer-tools/ui-panels/expressions-panel.md"> Expressions</a> panel, click the <strong>Text</strong> property's ellipsis button and specify the expression.</p>
+<p><img src="../../../images/eurd-web-expression-binding-multiple-fields.png"></p>
 </td><td><p>Use the <a class="xref" href="use-embedded-fields-mail-merge.md">mail merge</a> functionality.</p>
-<p><img src="../../../../images/eurd-win-binding-modes-mail-merge.png"></p>
+<p><img src="../../../images/eurd-web-binding-modes-mail-merge.png"></p>
 </td>
 </tr></table>
 
@@ -81,10 +81,10 @@ See the following topics for more information:
 </th><th><p>Data Bindings</p>
 </th></tr><tr><td><p> Select the summary function in the <strong>Expression Editor</strong>'s <strong>Summary</strong> section. </p>
 <p>All functions has the 'sum' prefix.</p>
-<p><img src="../../../../images/eurd-win-expression-binding-summary-function.png"></p>
+<p><img src="../../../images/eurd-web-expression-binding-summary-function.png"></p>
 <p>See <a class="xref" href="..\shape-report-data\shape-data-expression-bindings\calculate-a-summary.md">Calculate a Summary</a> for more information.</p>
-</td><td><p>Select the summary function in the <strong>Summary Func</strong> drop-down list.</p>
-<p><img src="../../../../images/eurd-win-data-binding-summary-function.png"></p>
+</td><td><p>Expand the <strong>Summary</strong> node in the <strong>Actions</strong> category and select the summary function in the <strong>Function</strong> drop-down list.</p>
+<p><img src="../../../images/eurd-web-data-binding-summary-function.png"></p>
 <p>See <a class="xref" href="..\shape-report-data\shape-data-data-bindings\calculate-a-summary.md">Calculate a Summary</a> for more information.</p>
 </td>
 </tr></table>
@@ -94,7 +94,7 @@ See the following topics for more information:
 <table><tr><th><p>Expression Bindings</p>
 </th><th><p>Data Bindings</p>
 </th></tr><tr><td><p>Use the <strong>Expression Editor</strong> to construct an <a class="xref" href="..\use-expressions.md">expression</a> of any complexity.</p>
-<p><img src="../../../../images/eurd-win-label-advanced-summary-expression.png"></p>
+<p><img src="../../../images/eurd-web-label-advanced-summary-expression.png"></p>
 <p>Refer to <a class="xref" href="..\shape-report-data\shape-data-expression-bindings\calculate-an-advanced-summary.md">Calculate an Advanced Summary</a> for an example.</p>
 </td><td><p>Use <a class="xref" href="..\use-report-scripts.md">report scripts</a>.</p>
 <p>Refer to <a class="xref" href="..\shape-report-data\shape-data-data-bindings\calculate-a-custom-summary.md">Calculate a Custom Summary</a> for an example.</p>
@@ -105,11 +105,11 @@ See the following topics for more information:
 
 <table><tr><th><p>Expression Bindings</p>
 </th><th><p>Data Bindings</p>
-</th></tr><tr><td><p>Use the <strong>Expression Editor</strong> to construct <a class="xref" href="..\use-expressions.md">expressions</a> for a control's appearance and style properties.</p>
-<p><img src="../../../../images/eurd-win-shaping-style-name-expression.png"></p>
+</th></tr><tr><td><p>Switch to the <a class="xref"href="../report-designer-tools/ui-panels/expressions-panel.md"> Expressions</a> panel, click the <strong>Style Name</strong> property's ellipsis button and specify the expression.</p>
+<p><img src="../../../images/eurd-web-shaping-style-name-expression.png"></p>
 <p>Refer to <a class="xref" href="..\shape-report-data\shape-data-expression-bindings\conditionally-change-a-control-appearance.md">Conditionally Change a Control Appearance</a> for an example.</p>
 </td><td><p>Create formatting rules and assign them to report controls.</p>
-<p><img src="../../../../images/eurd-win-shaping-formattin-rule-appearance-settings.png"></p>
+<p><img src="../../../images/eurd-web-shaping-formattin-rule-appearance-settings.png"></p>
 <p>Refer to <a class="xref" href="..\shape-report-data\shape-data-data-bindings\conditionally-change-a-control-appearance.md">Conditionally Change a Control Appearance</a> for an example.</p>
 </td>
 </tr></table>
