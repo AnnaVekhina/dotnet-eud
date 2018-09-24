@@ -1,6 +1,6 @@
 ---
 title: Bind Report Controls to Data (Data Bindings)
-author: Anna Gubareva
+author: Anna Vekhina
 ---
 # Bind Report Controls to Data (Data Bindings)
 
