@@ -654,6 +654,15 @@
     - name: Filter Data
       href: articles/report-designer/shape-report-data/filter-data.md
       items:
+      - name: Filter Data at the Report Level
+        href: articles/report-designer/shape-report-data/filter-data/filter-data-at-the-report-level.md
+      - name: Filter Data at the Data Source Level
+        href: articles/report-designer/shape-report-data/filter-data/filter-data-at-the-data-source-level.md
+      - name: Limit the Number of Records to Display
+        href: articles/report-designer/shape-report-data/filter-data/limit-the-number-of-records-to-display.md
+    - name: Shape Data (Expression Bindings)
+      href: articles/report-designer/shape-report-data/shape-data-expression-bindings.md
+      items:
       - name: Format Data
         href: articles/report-designer/shape-report-data/shape-data-expression-bindings/format-data.md
       - name: Conditionally Change a Control's Appearance
@@ -676,7 +685,7 @@
         href: articles/report-designer/shape-report-data/shape-data-expression-bindings/count-the-number-of-records-in-a-report-or-group.md
       - name: Count the Number of Groups in a Report
         href: articles/report-designer/shape-report-data/shape-data-expression-bindings/count-the-number-of-groups-in-a-report.md
-    - name: Shape Data (Expression Bindings)
+    - name: Filter Data
       href: articles/report-designer/shape-report-data/filter-data.md
       items:
       - name: Filter Data at the Report Level
