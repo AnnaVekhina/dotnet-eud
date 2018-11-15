@@ -6,9 +6,6 @@ author: Anna Vekhina
 
 This tutorial describes how to create a simple invoice report displaying information about customers and their orders. You can perform similar steps to create various invoice layouts depending on your requirements.
 
-> [!Note]
-> See the [Create an Invoice based on a Template](create-an-invoice-based-on-template.md) topic to learn how to create an invoice report based on a predefined layout.
-
 ![](../../../images/eurd-web-invoice-report-result.png)
 
 ## Create a Report and Bind It to Data
@@ -135,7 +132,7 @@ Do the following to calculate a total price for each order as a sum of **Extende
 	
 	![](../../../images/eurd-web-invoice-specify-summary-function.png)
 
-3. Use the **Format String** property to format the summary's value (for instance, set it to **Total: {0:c2}**).
+3. Use the **Text Format String** property to format the summary's value (for instance, set it to **Total: {0:c2}**).
 	
 	![](../../../images/eurd-web-invoice-summary-format-string.png)
 
