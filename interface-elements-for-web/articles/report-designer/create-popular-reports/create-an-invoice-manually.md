@@ -70,7 +70,7 @@ Perform the following steps to create a detail report and construct its layout t
 	
 	![](../../../images/eurd-web-invoice-insert-detail-report.png)
 
-2. Select the Detail Report band and bind it to the detail table.
+2. Select the Detail Report band and select the master-detail relationship's name in the **Data Member** property's drop-down list.
 
     ![](../../../images/eurd-web-invoice-bind-detail-report.png)
 
@@ -128,7 +128,7 @@ Do the following to calculate a total price for each order as a sum of **Extende
 
 1. Add the Group Footer band to the detail report in the same way as the Group Header.
 
-2. Drop the Label control onto the added band and click its smart tag. Set the **Summary Running** property to **Report** to calculate the summary for the entire detail report and click the **Expression** property's ellipsis button. In the invoked **Expression Editor**, specify the following expression to calculate the total price:
+2. Drop the Label control onto the added band and expand the **Actions** category in the Properties panel. Select the **Summary** section and set the **Running** property to **Report** to calculate the summary for the entire detail report and click the **Expression** property's ellipsis button. In the invoked **Expression Editor**, specify the following expression to calculate the total price:
 	
 	![](../../../images/eurd-web-invoice-specify-summary-function.png)
 
