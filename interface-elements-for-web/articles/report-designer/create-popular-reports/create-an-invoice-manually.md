@@ -169,7 +169,7 @@ Do the following to customize the report and its elements' appearance:
 
     ![](../../../images/eurd-web-invoice-report-style-settings.png)
 
-6. Select report elements, expand the **Styles** category and choose a style from the **Style** property's drop-down list to apply the style to the selected elements.
+6. Select report elements, expand the **Styles** category and choose a style in the **Style** property's drop-down list to apply the style to the selected elements.
 
     ![](../../../images/eurd-web-invoice-apply-report-style.png)
 
