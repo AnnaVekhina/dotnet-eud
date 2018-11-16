@@ -12,7 +12,7 @@ author: Anna Vekhina
 
     ![]
 
-4. Replace the Detail band with the  [Vertical Header, Vertical Detail and Vertical Total](../introduction-to-banded-reports#vertical-bands.md) bands to display record fields verticallyInsert Vertical detail, header, total bands
+4. Replace the Detail band with the  [Vertical Header, Vertical Detail and Vertical Total](../introduction-to-banded-reports.md#vertical-bands) bands to display record fields verticallyInsert Vertical detail, header, total bands
 
 5. Set Up the Vertical Header band
 
