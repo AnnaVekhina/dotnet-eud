@@ -4,6 +4,8 @@ author: Anna Vekhina
 ---
 # Create a Vertical Report
 
+This tutorial describes how to use vertical bands to create a **Profit and Loss** report. You can perform similar steps to create various vertical reports depending on your requirements.
+
 ## Create a Report
 
 1. [Create a new report](../add-new-reports.md) or [open an existing one](../open-reports.md).
