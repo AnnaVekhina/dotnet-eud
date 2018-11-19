@@ -55,6 +55,6 @@ Use the [Character Comb](../use-report-elements/use-basic-report-controls/charac
 ## Get the Result
 The e-form report is now ready. Switch to [Print Preview](../preview-print-and-export-reports.md) to see the result.
 
-To highlight all editing fields available in the form, click the ![](../../../images/eurd-web-eform-editing-fields-button.png) **Editing Fields** button on the Print Preview toolbar. Clicking a field invokes the appropriate editor. To apply the entered values and navigate between editing fields, use the TAB and SHIFT+TAB key combinations.
+To highlight all editing fields available in the form, click the ![](../../../images/eurd-web-eform-editing-fields-button.png) **Highlight Editing Fields** button on the Print Preview toolbar. Clicking a field invokes the appropriate editor.
 
 ![](../../../images/eurd-web-eform-result.png)

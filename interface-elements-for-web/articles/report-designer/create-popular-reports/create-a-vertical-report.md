@@ -6,15 +6,13 @@ author: Anna Vekhina
 
 This tutorial describes how to use vertical bands to create a **Profit and Loss** report. You can perform similar steps to create various vertical reports depending on your requirements.
 
-## Create a Report
+## Add a Vertical Report
 
 1. [Create a new report](../add-new-reports.md) or [open an existing one](../open-reports.md).
 
 2. [Bind the report](../bind-to-data.md) to a required data source.
 
-## Prepare the Report's Layout
-
-1. Change the report page layout to landscape so that the vertical table fit the report. Switch to the [Properties](../../report-designer-tools/ui-panels/properties-panel.md) panel, expand the **Page Settings** category and enable the **Landscape** property.
+3. Change the report page layout to landscape so that the vertical table fit the report. Switch to the [Properties](../../report-designer-tools/ui-panels/properties-panel.md) panel, expand the **Page Settings** category and enable the **Landscape** property.
 
     ![](../../../images/eurd-web-vertical-reports-enable-landscape.png)
 
@@ -47,7 +45,7 @@ This tutorial describes how to use vertical bands to create a **Profit and Loss*
 
 1. Drop the **Table** control onto the Vertical Detail band. Add cells corresponding to the extra cells you added in the Vertical Header band.
 
-2. To provide dynamic content to the report, switch to the [Field List](../report-designer-tools/ui-panels/field-list.md), drop data fields onto the corresponding table cells.
+2. To provide dynamic content to the report, switch to the [Field List](../report-designer-tools/ui-panels/field-list.md) and drop data fields onto the corresponding table cells.
 
     ![](../../../images/eurd-web-vertical-reports-add-dynamic-content.png)
 
@@ -67,7 +65,7 @@ This tutorial describes how to use vertical bands to create a **Profit and Loss*
 
 1. Drop the **Table** control onto the Vertical Total band. Add cells corresponding to the extra cells you added in the Vertical Header band. Set the first cell's **Text** property to _TOTAL_.
 
-2. Add labels to display vertical totals that summarize totals in each group.
+2. Add [Label](../use-report-elements/use-basic-report-controls/label.md) controls to display vertical totals that summarize totals in each group.
  Select a label, expand the **Actions** category, select the **Summary** section and set the **Running** property to **Report**.
 
     ![](../../../images/eurd-web-vertical-reports-set-summary-running.png)

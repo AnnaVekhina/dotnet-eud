@@ -16,9 +16,8 @@ This tutorial describes how to create a simple invoice report displaying informa
 
    ![](../../../images/eurd-web-add-sql-data-source-menu.png) 
 
-   The menu contains this command if your software vendor provides data connections.
 
-3. Select the data connection on the [Data Source Wizard](../report-designer-tools/data-source-wizard.md)'s first page and click **Next**.
+3. Select a data connection on the [Data Source Wizard](../report-designer-tools/data-source-wizard.md)'s first page and click **Next**.
 
     ![](../../../images/eurd-web-invoice-select-data-connection-in-wizard.png)
 
@@ -28,7 +27,7 @@ This tutorial describes how to create a simple invoice report displaying informa
 	
 	![](../../../images/eurd-web-invoice-join-tables-in-query-builder.png)
 
-5. On the same wizard page, select the data view providing order details for listing products included in each order in the invoice. 
+5. On the same wizard page, select the data view providing order details for listing products included in each order in the invoice and click **Next**. 
 
     ![](../../../images/eurd-web-invoice-add-view.png)
 
