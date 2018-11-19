@@ -31,7 +31,7 @@ author: Anna Vekhina
     | ![](../../../images/eurd-web-vertical-reports-add-vertical-detail.png) | The **Vertical Details band** contains a table with a single column that is printed so many times as there are records in the report's data source. |
     | ![](../../../images/eurd-web-vertical-reports-add-vertical-total.png) | The **Vertical Total band** contains a table with a single column that has so many labels in cells as there are summary functions you specified for each field in the Report Wizard (only the sum function for each field in this demo). |
 
-## Set Up the Vertical Header band
+## Set Up the Vertical Header Band
 
 1. Drop the [Table](../use-report-elements/use-tables.md) control from the [Toolbox](../../report-designer-tools/toolbox.md) onto the Vertical Header band.
 
@@ -41,7 +41,7 @@ author: Anna Vekhina
 
     ![](../../../images/eurd-web-vertical-reports-add-static-content.png)
 
-## Set Up the Vertical Detail band
+## Set Up the Vertical Detail Band
 
 1. Drop the **Table** control onto the Vertical Detail band. Add cells corresponding to the extra cells you added in the Vertical Header band.
 
@@ -61,7 +61,7 @@ author: Anna Vekhina
 
     ![](../../../images/eurd-web-vertical-reports-format-table-cells.png)
 
-## Set Up the Vertical Total band
+## Set Up the Vertical Total Band
 
 1. Drop the **Table** control onto the Vertical Total band. Add cells corresponding to the extra cells you added in the Vertical Header band. Set the first cell's **Text** property to _TOTAL_.
 
