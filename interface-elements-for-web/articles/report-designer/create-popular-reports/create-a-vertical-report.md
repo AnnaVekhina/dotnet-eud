@@ -31,7 +31,7 @@ This tutorial describes how to use vertical bands to create a **Profit and Loss*
     |---|---|
     | ![](../../../images/eurd-web-vertical-reports-add-vertical-header.png) | The **Vertical Header band** contains a table with a single column that displays headers of the report's data fields. |
     | ![](../../../images/eurd-web-vertical-reports-add-vertical-detail.png) | The **Vertical Details band** contains a table with a single column that is printed so many times as there are records in the report's data source. |
-    | ![](../../../images/eurd-web-vertical-reports-add-vertical-total.png) | The **Vertical Total band** contains a table with a single column that has so many labels in cells as there are summary functions you specified for each field in the Report Wizard (only the sum function for each field in this demo). |
+    | ![](../../../images/eurd-web-vertical-reports-add-vertical-total.png) | The **Vertical Total band** contains a table with a single column that has so many labels in cells as there are summary functions you specified for each field in the Report Wizard (only the **sum** function for each field in this demo). |
 
 ## Set Up the Vertical Header Band
 
@@ -67,12 +67,13 @@ This tutorial describes how to use vertical bands to create a **Profit and Loss*
 
 1. Drop the **Table** control onto the Vertical Total band. Add cells corresponding to the extra cells you added in the Vertical Header band. Set the first cell's **Text** property to _TOTAL_.
 
-2. Select a table cell, expand the **Actions** category, select the **Summary** section and set the **Running** property to **Report** to display vertical totals that summarize totals in each group.
+2. Add labels to display vertical totals that summarize totals in each group.
+ Select a label, expand the **Actions** category, select the **Summary** section and set the **Running** property to **Report**.
 
     ![](../../../images/eurd-web-vertical-reports-set-summary-running.png)
 
-3. Specify the **Expression** and **Text Format String** properties for table cells.   
-
+3. Specify the **Expression** and **Text Format String** properties for table cells. Copy and paste a label with a total function so that all totals have the same size and position.
+  
     ![](../../../images/eurd-web-vertical-reports-summaries.png)
 
 ## Preview the Result
