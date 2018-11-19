@@ -4,15 +4,20 @@ author: Anna Vekhina
 ---
 # Create Popular Reports
 
-The following tutorials illustrate how to create table and invoice reports:
+The following tutorials illustrate how to create basic reports:
 
 * [Create a Table Report](create-popular-reports/create-a-table-report.md)
-* [Create an Invoice Manually](create-popular-reports/create-an-invoice-manually.md)
+* [Create a Vertical Report](create-popular-reports/create-an-invoice-manually.md)
 
 The following topics describe how to display hierarchical data in your reports:
 
 * [Create a Master-Detail Report (Use Detail Report Bands)](create-popular-reports/create-a-master-detail-report-use-detail-report-bands.md)
 * [Create a Master-Detail Report (Use Subreports)](create-popular-reports/create-a-master-detail-report-use-subreports.md)
+
+The following tutorial illustrates how to create invoice reports:
+
+* [Create an Invoice Manually](create-popular-reports/create-an-invoice-manually.md)
+
 
 The tutorials listed below demonstrate various layout options available for reports:
 
