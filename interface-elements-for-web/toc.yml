@@ -526,6 +526,8 @@
   - name: Create Popular Reports
     href: articles/report-designer/create-popular-reports.md
     items:
+    - name: Create a Letter
+      href: articles/report-designer/create-popular-reports/create-a-letter.md
     - name: Create a Table Report
       href: articles/report-designer/create-popular-reports/create-a-table-report.md
     - name: Create an Invoice Manually

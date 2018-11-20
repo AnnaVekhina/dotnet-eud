@@ -6,6 +6,7 @@ author: Anna Vekhina
 
 The following tutorials illustrate how to create basic reports:
 
+* [Create a Letter](create-popular-reports/create-a-letter.md)
 * [Create a Table Report](create-popular-reports/create-a-table-report.md)
 * [Create a Vertical Report](create-popular-reports/create-an-invoice-manually.md)
 
