@@ -18,3 +18,5 @@ This tutorial describes the steps to create a mail merge report, in which data f
 
     ![](../../../images/eurd-web-letter-rich-text-result.png)
 
+For more information about mail merge, refer to [Use Embedded Fields (Mail Merge)](../bind-to-data/use-embedded-fields-mail-merge.md).
+
