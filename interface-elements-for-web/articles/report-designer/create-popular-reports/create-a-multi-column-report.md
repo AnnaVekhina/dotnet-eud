@@ -6,6 +6,8 @@ author: Anna Vekhina
 
 This document describes how to arrange report data in multiple columns, which can be used to create mailing labels, business cards or multi-column directories.
 
+![](../../../images/eurd-web-multi-column-result.png)
+
 ## Settings
 To access the multi-column settings of a report's Detail band, switch to the [Properties](../../report-designer-tools/ui-panels/properties-panel.md) panel and expand the **Actions** or the **Behavior** category.
 

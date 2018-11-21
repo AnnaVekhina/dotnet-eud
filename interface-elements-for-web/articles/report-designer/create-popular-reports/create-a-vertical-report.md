@@ -6,6 +6,8 @@ author: Anna Vekhina
 
 This tutorial describes how to use vertical bands to create a **Profit and Loss** report. You can perform similar steps to create various vertical reports depending on your requirements.
 
+![](../../../images/eurd-web-vertical-reports-result.png)
+
 ## Add a Vertical Report
 
 1. [Create a new report](../add-new-reports.md) or [open an existing one](../open-reports.md).
@@ -23,15 +25,9 @@ This tutorial describes how to use vertical bands to create a **Profit and Loss*
     > [!NOTE]
     > If your report's Detail band contains report controls, this band and all these controls are lost when you add a vertical band (the same behavior takes place in the opposite situation).
 
-    The following vertical bands are available:
+## Vertical Header Band
 
-    | Icon | Description |
-    |---|---|
-    | ![](../../../images/eurd-web-vertical-reports-add-vertical-header.png) | The **Vertical Header band** contains a table with a single column that displays headers of the report's data fields. |
-    | ![](../../../images/eurd-web-vertical-reports-add-vertical-detail.png) | The **Vertical Details band** contains a table with a single column that is printed so many times as there are records in the report's data source. |
-    | ![](../../../images/eurd-web-vertical-reports-add-vertical-total.png) | The **Vertical Total band** contains a table with a single column that has so many labels in cells as there are summary functions you specified for each field in the Report Wizard (only the **sum** function for each field in this tutorial). |
-
-## Set Up the Vertical Header Band
+Add a table with a single column that displays headers of the report's data fields.
 
 1. Drop the [Table](../use-report-elements/use-tables.md) control from the [Toolbox](../../report-designer-tools/toolbox.md) onto the Vertical Header band.
 
@@ -41,7 +37,9 @@ This tutorial describes how to use vertical bands to create a **Profit and Loss*
 
     ![](../../../images/eurd-web-vertical-reports-add-static-content.png)
 
-## Set Up the Vertical Detail Band
+## Vertical Detail Band
+
+Add a table with a single column that is printed so many times as there are records in the report's data source.
 
 1. Drop the **Table** control onto the Vertical Detail band. Add cells corresponding to the extra cells you added in the Vertical Header band.
 
@@ -61,7 +59,9 @@ This tutorial describes how to use vertical bands to create a **Profit and Loss*
 
     ![](../../../images/eurd-web-vertical-reports-format-table-cells.png)
 
-## Set Up the Vertical Total Band
+## Vertical Total Band
+
+Add a table with a single column that has so many labels in cells as there are summary functions you specified for each field (only the **sum** function for each field in this tutorial).
 
 1. Drop the **Table** control onto the Vertical Total band. Add cells corresponding to the extra cells you added in the Vertical Header band. Set the first cell's **Text** property to _TOTAL_.
 

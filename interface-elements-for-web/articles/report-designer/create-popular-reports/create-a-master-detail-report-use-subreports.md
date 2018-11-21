@@ -6,6 +6,8 @@ author: Anna Vekhina
 
 This tutorial demonstrates how to create a master-detail report using the [Subreport](../use-report-elements/use-basic-report-controls/subreport.md) control. This approach is useful if your data source does not contain master-detail relationship or you prefer to store master and detail reports in different files. Another approach is described at [Create a Master-Detail Report (Use Detail Report Bands)](create-a-master-detail-report-use-detail-report-bands.md).
 
+![](../../../images/eurd-web-master-detail-result.png)
+
 ## Create a Master Report
 
 1. [Create a new report](../add-new-reports.md) or [open an existing one](../open-reports.md) to use it as a master report.

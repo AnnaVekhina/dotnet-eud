@@ -6,6 +6,8 @@ author: Anna Vekhina
 
 This tutorial describes the steps to create a label report that contains employee badges.
 
+![](../../../images/eurd-web-label-report-result.png)
+
 1. [Create a new report](../add-new-reports.md) and [bind it](../bind-to-data.md) to a required data source (for instance, to a table that contains information about employees).
 
 2. Click the report's smart tag, and in the invoked actions list, click **Design in Report Wizard**.

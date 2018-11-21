@@ -6,6 +6,8 @@ author: Anna Vekhina
 
 This tutorial describes how to create a data-bound report displaying information in a tabular format. Table reports should not be confused with hierarchical [master-detail reports](create-a-master-detail-report-use-detail-report-bands.md), nor with [cross-tab reports](create-a-cross-tab-report.md).
 
+![](../../../images/eurd-web-table-report-result.png)
+
 1. [Create a new report](../add-new-reports.md) or [open an existing one](../open-reports.md).
 
 2. [Bind the report](../bind-to-data.md) to a required data source.
