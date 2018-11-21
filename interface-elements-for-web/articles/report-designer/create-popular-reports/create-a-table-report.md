@@ -26,7 +26,7 @@ This tutorial describes how to create a data-bound report displaying information
 
     This creates a table with the same number of cells as the number of fields selected with each cell bound to the appropriate data field.
 
-6. Click an empty place on the report's surface and draw a rectangle around a table to select it. 
+6. Click an empty place on the report's surface and draw a rectangle around the table to select it. 
 
     ![](../../../images/eurd-web-table-report-select-both-tables.png)
 
