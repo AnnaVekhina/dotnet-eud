@@ -29,7 +29,7 @@ This tutorial describes how to use vertical bands to create a **Profit and Loss*
     |---|---|
     | ![](../../../images/eurd-web-vertical-reports-add-vertical-header.png) | The **Vertical Header band** contains a table with a single column that displays headers of the report's data fields. |
     | ![](../../../images/eurd-web-vertical-reports-add-vertical-detail.png) | The **Vertical Details band** contains a table with a single column that is printed so many times as there are records in the report's data source. |
-    | ![](../../../images/eurd-web-vertical-reports-add-vertical-total.png) | The **Vertical Total band** contains a table with a single column that has so many labels in cells as there are summary functions you specified for each field in the Report Wizard (only the **sum** function for each field in this demo). |
+    | ![](../../../images/eurd-web-vertical-reports-add-vertical-total.png) | The **Vertical Total band** contains a table with a single column that has so many labels in cells as there are summary functions you specified for each field in the Report Wizard (only the **sum** function for each field in this tutorial). |
 
 ## Set Up the Vertical Header Band
 
@@ -79,3 +79,15 @@ This tutorial describes how to use vertical bands to create a **Profit and Loss*
 Switch to [Print Preview](../preview-print-and-export-reports.md) to see the resulting report.
 
 ![](../../../images/eurd-web-vertical-reports-result.png)
+
+## Set Vertical Table Options
+
+You can set the following options to modify the vertical table:
+
+* Set the Vertical Header band's **Repeat Every Page** property to false to display field headers once - on the first report page.
+
+    ![](../../../images/eurd-web-vertical-reports-repeat-every-page.png)
+
+* Set the Vertical Detail band's **Band Layout** property to **Across Then Down** to print the data records that do not fit a page on the same page, otherwise, they are printed on the next page.
+
+    ![](../../../images/eurd-web-vertical-reports-band-layout.png)
