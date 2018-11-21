@@ -47,14 +47,12 @@ The following properties are specific to the Character Comb control:
 	
 	![](../../../../images/eurd-web-character-comb-vertical-and-horizontal-spacing.png)
 	
-	The area between cells is painted using the background color of the control's parent container (the control's **Back Color** property is ignored for this area). In the following image, the control is assigned a gray background color, and the report's background color is white.
-	
-	![](../../../../images/eurd-web-character-comb-back-color.png)
-	
 
 * **Border Width**
 	
 	Specifies the width of cell borders in pixels, as a floating point value.
+
+	![](../../../../images/eurd-web-character-comb-specify-border-width.png)
 	
 	When the cell spacing is set to zero, the borders of adjacent cells are merged (i.e., the actual border width is not doubled).
 	
@@ -107,19 +105,19 @@ The following properties are specific to the Character Comb control:
 ## Content Layout and Position
 This section describes the **Character Comb** properties that affect the control's position on a page and content layout.
 
-The following image illustrates the behavior of the **Auto Width** property that specifies whether or not the width of a control depends on its text.
+The following image illustrates the behavior of the **Auto Width** property that specifies whether or not the width of a control depends on its text. Expand the **Actions** or **Behavior** category to specify this property.
 
 | AutoWidth = true | AutoWidth = false |
 |---|---|
 | ![](../../../../images/eurd-web-character-comb-auto-width-true.png) | ![](../../../../images/eurd-web-character-comb-auto-width-false.png) |
 
-The following image illustrates the behavior of the **Can Shrink** property that specifies whether or not the height of a control depends on its text.
+The following image illustrates the behavior of the **Can Shrink** property that specifies whether or not the height of a control depends on its text. Expand the **Actions** or **Behavior** category to specify this property.
 
 | CanShrink = true | CanShrink = false |
 |---|---|
-| ![](../../../../images/eurd-web-character-comb-can-shrink-true.png) |![](../../../../images/eurd-web-character-comb-can-shrink-false.png) |
+| ![](../../../../images/eurd-web-character-comb-can-shrink-true.png) |![](../../../../images/eurd-web-character-comb-auto-width-false.png) |
 
-The **Text Alignment** property specifies the alignment of text within a control.
+The **Text Alignment** property specifies the alignment of text within a control. Expand the **Appearance** category to specify this property.
 
 | TextAlignment = Top Left | TextAlignment = Middle Center | TextAlignment = Bottom Right |
 |---|---|---|
