@@ -48,7 +48,7 @@ Export (except for PDF) has the following limitations:
 
 * SVG images are converted to metafiles because document viewers may not support SVG format.
 
-* SVG images are exported as PNG in the Microsoft Azure environment.
+* SVG images are exported as PNG in the **Microsoft Azure** environment.
 
 The **Medium Trust** permission level does not support SVG.
 
@@ -100,10 +100,15 @@ You can also use the **Image Alignment** property in the **Normal**, **Center Im
 
 ## Interactivity
 
-You can add a possibility to load/change an image and/or draw a signature in a picture box when it is displayed in Print Preview. To do this, expand the **Behavior** category, select the **Edit Options** section and set the **Enabled** property to **Yes**.
+You can add a possibility to load/change an image and/or draw a signature in a Picture Box when it is displayed in Print Preview. To do this, expand the **Behavior** category, select the **Edit Options** section and set the **Enabled** property to **Yes**.
 
 ![](../../../../images/eurd-web-picture-box-enable-content-editing.png)
 
-Click the picture box in a previewed document and an editor invokes.
+Click the Picture Box in a previewed document and an editor invokes.
 
 ![](../../../../images/eurd-web-picture-box-content-editing.png)
+
+> [!TIP]
+> You can draw borders for the Picture Box to make the editor visible in Print Preview, if an image is not specified.
+
+Refer to the [Edit Content in Print Preview](../../provide-interactivity/edit-content-in-print-preview.md) and [Create an Interactive E-Form](../../create-popular-reports/create-an-interactive-e-form.md) topics to see how use this Picture Box mode.
