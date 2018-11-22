@@ -56,7 +56,7 @@ The **Medium Trust** permission level does not support SVG.
 
 Use the **Sizing** property to specify an image's position in the Picture Box. 
 
-![](../../../../images/eurd-web-picture-box-sizing-property.png)
+![](../../../../images/eurd-web-picture-box-image-size-modes.png)
 
 This control supports the following image size modes:
 
@@ -72,7 +72,7 @@ This control supports the following image size modes:
 
     ![](../../../../images/eurd-web-picture-box-image-size-mode-stretch-image.png)
 
-* **Auto Size**
+* **Auto-Size**
 
     The control's dimensions are adjusted to the image's size.
 
@@ -96,4 +96,14 @@ This control supports the following image size modes:
 
     ![](../../../../images/eurd-web-picture-box-image-size-mode-tile.png)
 
-You can also use the **Image Alignment** property in the **Normal**, **Squeeze** and **Zoom Image** modes to specify the alignment in relation to the control's boundaries.
+You can also use the **Image Alignment** property in the **Normal**, **Center Image**, **Zoom Image** and **Squeeze** modes to specify the alignment in relation to the control's boundaries.
+
+## Interactivity
+
+You can add a possibility to load/change an image and/or draw a signature in a picture box when it is displayed in Print Preview. To do this, expand the **Behavior** category, select the **Edit Options** section and set the **Enabled** property to **Yes**.
+
+![](../../../../images/eurd-web-picture-box-enable-content-editing.png)
+
+Click the picture box in a previewed document and an editor invokes.
+
+![](../../../../images/eurd-web-picture-box-content-editing.png)
