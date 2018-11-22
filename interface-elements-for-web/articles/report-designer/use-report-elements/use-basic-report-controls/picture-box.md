@@ -14,11 +14,11 @@ To add this control to a report, drag the **Picture Box** item from the [Toolbox
 The Picture Box can display images with the following formats: BMP, JPG, JPEG, GIF, TIF, TIFF, PNG, ICO, DIB, RLE, JPE, JFIF, EMF, WMF, SVG.
 
 
-Use the **Image** or **Image URL** property to specify the image the Picture Box displays. You can access these properties in the **Actions** category.
+Use the **Image Source** or **Image URL** property to specify the image the Picture Box displays. You can access these properties in the **Actions** category.
 
 ![](../../../../images/eurd-web-picture-box-image-property.png)
 
-The specified image is [saved](../../save-reports.md) with the report if you use the **Image** property. If you use the **Image URL** property, only the path to the image is stored. 
+The specified image is [saved](../../save-reports.md) with the report if you use the **Image Source** property. If you use the **Image URL** property, only the path to the image is stored. 
 
 ## Bind to Data
 You can use the Picture Box to display an image [dynamically obtained](../../bind-to-data/bind-controls-to-data-expression-bindings.md) from a data source. Click the **Image Source** property's ellipsis button and select the data field in the invoked **Expression Editor**. You can use this editor to construct a binding expression that can include two or more data fields.
@@ -96,7 +96,7 @@ This control supports the following image size modes:
 
     ![](../../../../images/eurd-web-picture-box-image-size-mode-tile.png)
 
-You can also use the **Image Alignment** property in the **Normal**, **Center Image**, **Zoom Image** and **Squeeze** modes to specify the alignment in relation to the control's boundaries.
+You can also use the **Image Alignment** property in the **Normal**, **Zoom Image** and **Squeeze** modes to specify the alignment in relation to the control's boundaries.
 
 ## Interactivity
 

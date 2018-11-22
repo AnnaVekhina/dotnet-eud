@@ -50,7 +50,7 @@ You can make the label display a [summary function's result](../../shape-report-
 ## Adjust the Label Size and Content
 ### Static Content
 
-You can change a label's size to fit its static text using the **Fit Bounds To Text** button in the [Toolbar](../../report-designer-tools/toolbar.md)'s **Text Tools** contextual tab:
+You can change a label's size to fit its static text using the **Fit Bounds To Text** command in the **Actions** category:
 
 * If the **Word Wrap** option is enabled, the command displays control content in multiple lines. It decreases the control's height and adjusts the width to fit this content.
 	
@@ -62,7 +62,7 @@ You can change a label's size to fit its static text using the **Fit Bounds To T
 
 This command's result also depends on the control's **Text Alignment** and **Right To Left** settings.
 
-Use the **Fit Text To Bounds** button to adjust the control's font size to fit its area. The **Word Wrap** option defines whether the resulting text can occupy multiple lines or should be in a single line.
+Use the **Fit Text To Bounds** command to adjust the control's font size to fit its area. The **Word Wrap** option defines whether the resulting text can occupy multiple lines or should be in a single line.
 
 ![](../../../../images/eurd-web-label-fit-text-to-bounds.png)
 
@@ -100,7 +100,7 @@ See the [Lay out Dynamic Report Content](../../lay-out-dynamic-report-content.md
 
 
 ## Interactivity
-You can enable [editing a label's content](../../provide-interactivity/edit-content-in-print-preview.md) in Print Preview by setting the **Enabled** option in the **Edit Options** category to **Yes**.
+You can enable [editing a label's content](../../provide-interactivity/edit-content-in-print-preview.md) in Print Preview by setting the **Enabled** option in the **Edit Options** section to **Yes**.
 
 ![](../../../../images/eurd-web-label-edit-options-enabled.png)
 

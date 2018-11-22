@@ -32,7 +32,11 @@ Click the **Rtf Expression** or **Html Expression** option's ellipsis button to 
 
 ![](../../../../images/eurd-web-rich-text-bind-to-data.png)
 
-You can also drag and drop a data field from the [Field List](../../report-designer-tools/ui-panels/field-list.md) onto the **Rich Text** control to bind it to this field.
+You can use HTML formatted text, which contains markup tags to define text appearance. Click the **Html Expression** option's ellipsis button and enter this text in **'** quotes **'** in the invoked **Expression Editor**.
+
+![](../../../../images/eurd-web-rich-text-html-formatted-text.png)
+
+Drag and drop a numeric or text field from the [Field List](../../report-designer-tools/ui-panels/field-list.md) onto the **Rich Text** control to bind it to this field.
 
 ![](../../../../images/eurd-web-rich-text-drop-fom-field-list.png)
 
