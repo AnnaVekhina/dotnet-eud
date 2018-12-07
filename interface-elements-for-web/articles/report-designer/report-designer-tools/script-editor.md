@@ -39,8 +39,8 @@ Each report element has its own set of events that can be handled by the Script 
 
     After the event is specified, a code template is generated in the current scripting language.
 
-3. To check for errors in the report's script, click the **Validate** button (![](../../../images/eurd-script-editor-script-editor-validate-button.png).
+3. To check for errors in the report's script, click the **Validate** ![](../../../images/eurd-script-editor-script-editor-validate-button.png) button.
 
-    If an error is found, the string containing this error is marked with an (![](../../../images/eurd-web-script-editor-error.png) icon. When a mouse pointer hovers over this icon, the text of the error is displayed.
+    If an error is found, the string containing this error is marked with an ![](../../../images/eurd-web-script-editor-error.png) icon. When a mouse pointer hovers over this icon, the text of the error is displayed.
 
     ![](../../../images/eurd-web-script-editor-error-msg.png)
