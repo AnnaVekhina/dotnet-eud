@@ -14,7 +14,7 @@ The **Script Editor** allows you to write code for specific event handlers in th
 
 _Scripts_ are program commands, placed within the _event handlers_ of the required report elements. And, when the corresponding event occurs (e.g. a mouse click), the script code runs.
 
-You can write _scripts_ for a report or any of its elements (bands and controls), to be executed when the report is being [previewed, printed or exported]().
+You can write _scripts_ for a report or any of its elements (bands and controls), to be executed when the report is being [previewed, printed or exported](../preview-print-and-export-reports.md).
 
 The Script Editor provides you the capability to write and execute scripts. Use this editor if you want to slightly customize a report in the End-User Report Designer.
 
